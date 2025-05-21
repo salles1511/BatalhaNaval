@@ -1,4 +1,4 @@
-# Batalha Naval - Nível Novato
+# Batalha Naval
 
 ## 🎯 Objetivo
 
